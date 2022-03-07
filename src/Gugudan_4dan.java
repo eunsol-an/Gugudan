@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Gugudan_4dan {
 
 	public static void main(String[] args) {
