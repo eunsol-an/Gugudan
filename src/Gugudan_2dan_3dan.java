@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Gugudan {
+public class Gugudan_2dan_3dan {
 	public static void main(String[] args) {
 		// System.out.println();을 이용해서 직접 계산을 입력하여 화면에 출력
 		
