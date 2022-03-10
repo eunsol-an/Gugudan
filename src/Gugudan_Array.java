@@ -21,8 +21,8 @@ public class Gugudan_Array {
 		for (int i=1; i<gugudan.length; i++) {
 			int num = i + 1;
 			for (int j=0; j<gugudan.length; j++) {
-				gugudan[i] = num * (j + 1);
-				System.out.println(gugudan[i]);
+				gugudan[j] = num * (j + 1);
+				System.out.println(gugudan[j]);
 			}
 		}
 		
